@@ -4,3 +4,39 @@ h1{
 .chamada-texto{
     margin-right:5%;
 }
+font-family: "bebas neue", sans serif
+background: rgb(143, 36, 175);
+color aliceblue; 
+margin-bottom: 100px;
+
+.chamada{
+    background: white;
+    display: flex;
+    justify-content: center; 
+    margin-top: 80px;
+    margin-bottom: 80px;
+
+}
+header{
+    font-size: 40px;
+    color:black;
+    border-bottom: 3px solid black
+    padding: 20px
+}
+h1{
+    font-size: 35px;
+}
+    .categoria-videos{
+    overflow-x: auto;
+    display: flex;
+    gap: 10px;
+    }
+    .categoria videos{
+        height: 200px;
+        opacity: 0.5;
+    }
+    categoria-videos img:hover{
+    opacity: 1.0;
+    border: 3px solid powderblue;
+
+    }
