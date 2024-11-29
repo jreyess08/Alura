@@ -15,7 +15,6 @@ margin-bottom: 100px;
     justify-content: center; 
     margin-top: 80px;
     margin-bottom: 80px;
-
 }
 header{
     font-size: 40px;
@@ -31,12 +30,11 @@ h1{
     display: flex;
     gap: 10px;
     }
-    .categoria videos{
+    .categoria videos img{
         height: 200px;
         opacity: 0.5;
     }
     categoria-videos img:hover{
     opacity: 1.0;
     border: 3px solid powderblue;
-
     }
